@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OligoCyberSecurity/ShellTorchChecker/assets/146727616/b9db1729-80da-4913-8918-93afbb3b10a2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OligoCyberSecurity/ShellTorchChecker/assets/146727616/a69644ae-9b1b-4b86-a059-2f3b21d51709">
-  <img height=130px  alt="ShellTorch Logo" src="https://github.com/OligoCyberSecurity/ShellTorchChecker/assets/146727616/a69644ae-9b1b-4b86-a059-2f3b21d51709">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OligoCyberSecurity/ShellTorchChecker/assets/8081679/e35ee9a8-425c-47d1-b246-13e19e450860">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OligoCyberSecurity/ShellTorchChecker/assets/8081679/a2d9f351-3e69-4d67-b3d1-c0a982cb89cf">
+  <img height=130px  alt="ShellTorch Logo" src="https://github.com/OligoCyberSecurity/ShellTorchChecker/assets/8081679/a2d9f351-3e69-4d67-b3d1-c0a982cb89cf">
 </picture>
 
 ## ShellTorch Checker Tool
