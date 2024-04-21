@@ -80,7 +80,7 @@ echo "You are solely responsible for understanding the output and implications o
 echo "and for any actions taken based on its findings."
 echo "Use at your own risk."
 echo "..........................................."
-echo "By continuing running this script I agree that I have read the disclamer and have agreed to it."
+echo "By continuing running this script I agree that I have read the disclaimer and have agreed to it."
 echo "Press any key to start scanning, Press Ctrl+C to exit."
 read -n 1 -s
 echo ""
@@ -162,7 +162,7 @@ fi
 ########################################################################################
 if [ "$IS_ACCESIBLE" = true ] || [ "$HAS_SSRF" = true ]; then
   echo ""
-  echo -e "${COLOR_WHITE}${TEXT_BOLD}Recomendations:${NORMAL_TEXT}"
+  echo -e "${COLOR_WHITE}${TEXT_BOLD}Recommendations:${NORMAL_TEXT}"
   if [ "$IS_ACCESIBLE" = true ]; then
     echo -e "${COLOR_WHITE_FORMAT}To resolve Management Interface API Misconfiguration:
       Change \"management_address\" in config.properties from 0.0.0.0 to 127.0.0.1"
